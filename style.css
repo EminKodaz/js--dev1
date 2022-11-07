@@ -1,0 +1,25 @@
+
+header {
+  display: flex;
+  justify-content: center;
+  font-family: 'Permanent Marker', cursive;
+  color: yellow;
+}
+
+body {
+  background-color: black;
+}
+
+span {
+  font-family: 'Permanent Marker', cursive;
+  color: yellow;
+  display: flex;
+  justify-content: center;
+}
+
+article h3 {
+  display: flex;
+  justify-content: center;
+  font-family: 'Permanent Marker', cursive;
+  color: yellow;
+}
